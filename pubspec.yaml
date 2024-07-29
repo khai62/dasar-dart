@@ -1,0 +1,12 @@
+name: my_project
+description: A new Dart/Flutter project.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  # Tambahkan dependensi proyek Anda di sini
+
+dev_dependencies:
+  test: ^1.21.0 # Tambahkan paket test di sini
